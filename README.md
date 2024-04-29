@@ -10,6 +10,8 @@ Sonic booms are the loud sounds resulting from shock waves created by any object
 
 This simulation script offers an educational and insightful tool for exploring the physics behind sonic booms and other shock wave phenomena.
 
+![Figure_10009019](https://github.com/Rishit-katiyar/sonic_boom_simulation/assets/167756997/2050af34-76c8-45f1-8e46-df163cd0f3ba)
+
 ## Installation
 
 To use the Sonic Boom Simulation script, follow these installation instructions:
